@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 32px;
+}
+
+.c-1 {
+  background: brown;
+}
+
+.c-2 {
+  background: blue;
+}
+
+.s-1 {
+  background: #42443f;
+}
+
+.s-2 {
+  background: yellowgreen;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+}
+/*# sourceMappingURL=style.css.map */
